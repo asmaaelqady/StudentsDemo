@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Asmaa Salah",
+      "age": 20,
+      "phone": "01233454556"
+    },
+    {
+      "id": 2,
+      "name": "Ahmed Salah",
+      "age": 20,
+      "phone": "01233454556"
+    },
+    {
+      "id": 3,
+      "name": "mohamed Salah",
+      "age": 20,
+      "phone": "01233454556"
+    },
+    {
+      "id": 4,
+      "name": "mostafa Salah",
+      "age": 20,
+      "phone": "01233454556"
+    },
+    {
+      "id": 5,
+      "name": "abdelrhman Salah",
+      "age": 20,
+      "phone": "01233454556"
+    },
+    {
+      "id": 6,
+      "name": "samar",
+      "age": "12",
+      "phone": "01112553068"
+    },
+    {
+      "id": 7,
+      "name": "Asmaa sadek",
+      "age": "12",
+      "phone": "01112553068"
+    }
+  ]
+}
